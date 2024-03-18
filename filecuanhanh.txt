@@ -1,2 +1,2 @@
 day la file filecuanhanh.txt
-thuoc branch: nhanhmoi
+thuoc branch: nhanhmoi mà thôi
